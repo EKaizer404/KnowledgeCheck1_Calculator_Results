@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KnowledgeCheck1_Calculator": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
